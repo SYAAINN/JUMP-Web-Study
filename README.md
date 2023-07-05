@@ -4,5 +4,5 @@
 
 Learn how to use github
 
-1. commit 
+1. commit & push
 
