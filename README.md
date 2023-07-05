@@ -6,4 +6,8 @@ Learn how to use Github
 
 1. commit & push practice
 
-2. pull practice by Github
+2. pull practice 
+
+3. pull practice by GUI 
+
+4. pull practice by GUI 2
