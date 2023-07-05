@@ -7,3 +7,5 @@ Learn how to use github
 1. commit & push practice
 
 2. pull practice
+
+3. pull practice by GUI
