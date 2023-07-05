@@ -9,3 +9,5 @@ Learn how to use github
 2. pull practice
 
 3. pull practice by GUI
+
+4. pull practice by GUI 2
