@@ -6,4 +6,4 @@ Learn how to use github
 
 1. commit & push practice
 
-2. pull 
+2. pull practice
