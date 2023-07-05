@@ -2,6 +2,7 @@
 
 2023.06~08 / JUMP web study
 
-1. html study 
+Learn how to use github
 
-2. css study
+1. commit 
+
